@@ -21,7 +21,8 @@
 
 
 ## CodeChief Activity
-<img width="1597" height="985" alt="image" src="https://github.com/user-attachments/assets/54208e93-4c3b-4576-b323-4fac1161dffe" />
+<img width="1500" height="900" alt="image" src="https://github.com/user-attachments/assets/4bb5f9c2-0661-4f30-b69a-e8627a26222c" />
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
